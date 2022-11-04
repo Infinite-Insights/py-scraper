@@ -1,5 +1,7 @@
 pydantic
+annotate
 fastapi
 uvicorn[standard]
+black==22.10.0
 pytest
 
